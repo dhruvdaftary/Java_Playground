@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Main {
+public class percentage_calculator {
     public static void main(String[] args) {
         Scanner marks = new Scanner(System.in);
         System.out.println("Enter subject 1 marks");
